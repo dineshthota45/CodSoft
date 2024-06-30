@@ -1,4 +1,10 @@
-# Import necessary libraries
+#codsoft
+#Task-1 TITANIC SURVIVAL PREDICTION
+#done by dinesh thota
+
+
+
+
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier

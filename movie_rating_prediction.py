@@ -1,3 +1,8 @@
+#codsoft
+#Task 2 : Movie rating predition with python
+# by Dinesh thota
+
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt

@@ -1,4 +1,8 @@
-# Import necessary libraries
+#CODSOFT
+#task-3 IRIS FLOWER CLASSIFICATION
+#done by dinesh thota
+
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt

@@ -1,3 +1,9 @@
+#codsoft
+#TASK-4 SALES PREDICTION USING PYTHON
+#done by dinesh thota
+
+
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
